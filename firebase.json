@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"iot-packet-box","appId":"1:764087551371:android:48c648fe6f639938f7db8e","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"iot-packet-box","configurations":{"android":"1:764087551371:android:48c648fe6f639938f7db8e","web":"1:764087551371:web:04708c3bbaac8ef8f7db8e"}}}}}}

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "764087551371",
+    "firebase_url": "https://iot-packet-box-default-rtdb.firebaseio.com",
+    "project_id": "iot-packet-box",
+    "storage_bucket": "iot-packet-box.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764087551371:android:48c648fe6f639938f7db8e",
+        "android_client_info": {
+          "package_name": "com.example.iot_paketbox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmiqn0XQXRjEakL2niH0LICs-8qqFlNLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
